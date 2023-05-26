@@ -24,3 +24,5 @@ PDInsert - Insertion of exemplary data
 
 Queriies - Exemplary queries
 
+# RDB Diagram: 
+![erdiagram](https://github.com/olekblok/Database-For-Police-Department/assets/132127130/dcb8a4ff-83dd-40e8-a0c3-89dae8899ed4)
